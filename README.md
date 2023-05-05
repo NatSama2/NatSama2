@@ -1,5 +1,6 @@
+[Copia de Blue Modern Jamboard Background](https://user-images.githubusercontent.com/124639827/236576225-b1f5378a-f69b-465c-b371-c4653eed3f10.jpg)
 ### Hi there 👋
-holiwi
+
 <!--
 **NatSama2/NatSama2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
