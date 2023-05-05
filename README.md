@@ -1,4 +1,4 @@
-![Blue Modern Jamboard Background](./Giselle-Cifuentes.jpg)
+![Blue Modern Jamboard Background](./Giselle-Cifuentes2.jpg)
 
 ### Hi there 👋
 
