@@ -1,5 +1,4 @@
-![Blue Modern Jamboard Background](./Giselle-Cifuentes2.jpg)
-<img src="./Giselle-Cifuentes2.jpg" alt="Copia de Blue Modern Jamboard Background" width="1000">
+![Blue Modern Jamboard Background](./Giselle-Cifuentes3.jpg)
 
 ### Hi there 👋
 
