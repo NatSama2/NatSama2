@@ -1,4 +1,4 @@
-![Blue Modern Jamboard Background](./Giselle-Cifuentes5.jpg)
+<align="center">![Blue Modern Jamboard Background](./Giselle-Cifuentes5.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Giselle Cifuentes</h1>
