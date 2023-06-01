@@ -1,5 +1,6 @@
-<align="center">![Blue Modern Jamboard Background](./Giselle-Cifuentes5.jpg)
-
+<p align="center">
+  ![Blue Modern Jamboard Background](./Giselle-Cifuentes5.jpg)
+</p>
 
 <h1 align="center">Hi 👋, I'm Giselle Cifuentes</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
