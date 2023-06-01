@@ -1,6 +1,6 @@
 ![Blue Modern Jamboard Background](./Giselle-Cifuentes5.jpg)
 
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Giselle Cifuentes</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
