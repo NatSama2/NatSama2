@@ -1,5 +1,5 @@
 <p align="center">
-  ![Blue Modern Jamboard Background](./Giselle-Cifuentes5.jpg)
+  <img src="./Giselle-Cifuentes5.jpg" alt="Blue Modern Jamboard Background">
 </p>
 
 <h1 align="center">Hi 👋, I'm Giselle Cifuentes</h1>
