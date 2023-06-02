@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Giselle Cifuentes</h1>
-<h3 align="center">A passionate frontend developer from Chile <img src="./cl9.png" alt="cl"> </h3>
+<h3 align="center">A passionate frontend developer from Chile </h3> <img src="./cl9.png" alt="cl"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsama2" alt="natsama2" /></a> </p>
 
