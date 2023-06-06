@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsama2" alt="natsama2" /></a> </p>
 
+- 🐾 Veterinarian who became a developer 
 - 📫 How to reach me **vet.nat.c@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
