@@ -11,8 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NatSama2&label=Profile%20views&color=blueviolet&style=flat" alt="NatSama2" />
 
-[![NatSama2](https://visitcount.itsvg.in/api?id=NatSama2&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsama2" alt="natsama2" /></a> </p>
 
 ### About Me:
@@ -51,4 +49,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![NatSama2](https://visitcount.itsvg.in/api?id=NatSama2&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
 -->
