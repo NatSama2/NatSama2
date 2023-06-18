@@ -10,7 +10,6 @@
 <h3 align="center">A passionate frontend developer from Chile <img src="./chile3.png" alt="cl"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NatSama2&label=Profile%20views&color=blueviolet&style=flat" alt="NatSama2" />
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsama2" alt="natsama2" /></a> </p>
 
 ### About Me:
