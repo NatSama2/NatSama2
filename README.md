@@ -2,7 +2,7 @@
   <img src="./diseño1.png" alt="Blue Modern Jamboard Background">
 </p>
 
-<h1 align="center">Hi 👋![Aplauso](https://emojicombos.com/emoji/👏), I'm Giselle Cifuentes</h1>
+<h1 align="center">Hi 👋, I'm Giselle Cifuentes</h1>
 <h3 align="center">A passionate frontend developer from Chile <img src="./chile3.png" alt="cl"> </h3>
 
 
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Aplauso](https://emojicombos.com/emoji/👏)
