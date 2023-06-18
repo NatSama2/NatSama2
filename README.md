@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./diseño1.png" alt="Blue Modern Jamboard Background">
+  <img src="./GiselleCifuentes(2).png" alt="Blue Modern Jamboard Background">
 </p>
 
 <h1 align="center">
