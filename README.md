@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Giselle+Cifuentes)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=27&duration=1000&pause=2000&color=E3F7E3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Giselle+Cifuentes)](https://git.io/typing-svg)
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=800&size=27&duration=1000&pause=2000&color=E3F7E3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Giselle+Cifuentes)](https://git.io/typing-svg)</h1>
