@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Giselle Cifuentes</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=2000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Giselle+Cifuentes)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Chile <img src="./chile3.png" alt="cl"> </h3>
 
 
