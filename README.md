@@ -2,7 +2,6 @@
   <img src="./diseño1.png" alt="Blue Modern Jamboard Background">
 </p>
 
-<h1 align="center">Hi 👋, I'm Giselle Cifuentes</h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=31&duration=1000&pause=2000&color=E3F7E3&multiline=true&width=407&lines=Hi+%F0%9F%91%8B%2C+I'm+Giselle+Cifuentes" alt="Typing SVG">
@@ -34,6 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natsama2&show_icons=true&locale=en" alt="natsama2" /></p>
 
 <!--
+<h1 align="center">Hi 👋, I'm Giselle Cifuentes</h1>
+
 **NatSama2/NatSama2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
