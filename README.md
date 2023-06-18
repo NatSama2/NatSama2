@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsama2" alt="natsama2" /></a> </p>
 
+## About Me:
 - 🐾 Veterinarian who became a developer
 - 🎮 Fanatic of playing video games
 - 💻 Web Development Enthusiast
