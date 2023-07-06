@@ -36,8 +36,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natsama2&show_icons=true&locale=en&layout=compact" alt="natsama2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natsama2&show_icons=true&locale=en" alt="natsama2" /></p>
-
-
+<br>
+<br>
 
 <p align="center">
   <img src="./CheckRepos.png" alt="Repo" width="180px">
