@@ -40,7 +40,7 @@
 <br>
 
 <p align="center">
-  <img src="./CheckRepos.png" alt="Repo" width="180px">
+  <img src="./CheckRepos2.png" alt="Repo" width="180px">
   <img src="./gatito.png" alt="gatito" width="70px">
 </p>
 
