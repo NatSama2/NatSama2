@@ -37,6 +37,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natsama2&show_icons=true&locale=en" alt="natsama2" /></p>
 
+<p align="center">
+  <img src="./CheckRepos" alt="Repo"><img src="./gatito" alt="gatito">
+</p>
+
 <!--
 <h1 align="center">Hi 👋, I'm Giselle Cifuentes</h1>
 
