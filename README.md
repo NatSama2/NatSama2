@@ -19,6 +19,7 @@
 - 📱 Aspiring Mobile App Developer
 - 🧠 Curious about Artificial Intelligence
 - 📫 How to reach me **vet.nat.c@gmail.com**
+<!-- - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
