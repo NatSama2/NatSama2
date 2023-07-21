@@ -18,6 +18,7 @@
 - 💻 Web Development Enthusiast
 - 📱 Aspiring Mobile App Developer
 - 🧠 Curious about Artificial Intelligence
+- 🚀 Completed a Front-End Web Development Bootcamp at Laboratoria <L>
 - 📫 How to reach me **vet.nat.c@gmail.com**
 <!-- - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! -->
 
