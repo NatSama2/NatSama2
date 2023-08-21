@@ -22,7 +22,7 @@
 <!-- - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! -->
 
 ### Courses:
-- 🚀 Completed a Front-End Web Development Bootcamp at [Laboratoria](https://github.com/Laboratoria)
+- 🚀 Completed a Front-End Web Development Bootcamp at [Laboratoria](https://www.laboratoria.la)
 - 🌱 I'm currently learning React and Bootstrap
 - 🌟 Learning Tailwind through [Plazi](https://platzi.com)
 
