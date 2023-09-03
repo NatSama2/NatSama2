@@ -45,9 +45,9 @@
 <br>
 <br>
 
-### My Pokémon Unite Main Team:
+### 🎮 My Pokémon Unite Main Team:
 <p align="center">
-  <img src="./Main-Pokemon-Unite.png" alt="My Pokémon Unite Main Team">
+  <img src="./Main-Pokemon-Unite.png" alt="My Pokémon Unite Main Team" width="200px">
 </p>
 
 <p align="center">
