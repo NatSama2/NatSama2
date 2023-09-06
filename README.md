@@ -23,8 +23,8 @@
 
 ### Courses:
 - 🚀 Completed a Front-End Web Development Bootcamp at [Laboratoria](https://www.laboratoria.la)
+- 🌟 Finished the Tailwind course on [Platzi](https://platzi.com)
 - 🌱 I'm currently learning React and Bootstrap
-- 🌟 Learning Tailwind through [Platzi](https://platzi.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
