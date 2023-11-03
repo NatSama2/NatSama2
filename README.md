@@ -12,6 +12,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NatSama2&label=Profile%20views&color=blueviolet&style=flat" alt="NatSama2" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsama2&theme=monokai" alt="natsama2" /></a> </p>
 
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; text-align: left;">
 ### About Me:
 - 🐾 Veterinarian who became a developer
 - 🎮 Fanatic of playing video games
@@ -20,9 +22,12 @@
 - 🧠 Curious about Artificial Intelligence
 - 📫 How to reach me **vet.nat.c@gmail.com**
 <!-- - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! -->
-
+  </div>
+  
 <div align="right">
   <img src="./yo-ambar-dev.jpeg" alt="Imagen de About Me" width="150">
+</div>
+  
 </div>
 
 ### Courses:
