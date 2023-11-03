@@ -12,24 +12,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NatSama2&label=Profile%20views&color=blueviolet&style=flat" alt="NatSama2" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsama2&theme=monokai" alt="natsama2" /></a> </p>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h3>About Me:</h3>
-    <ul>
-      <li>🐾 Veterinarian who became a developer</li>
-      <li>🎮 Fanatic of playing video games</li>
-      <li>💻 Web Development Enthusiast</li>
-      <li>📱 Aspiring Mobile App Developer</li>
-      <li>🧠 Curious about Artificial Intelligence</li>
-      <li>📫 How to reach me **vet.nat.c@gmail.com**</li>
-<!-- <li - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! </li> -->
-    </ul>
-  </div>
+### About Me:
+- 🐾 Veterinarian who became a developer
+- 🎮 Fanatic of playing video games
+- 💻 Web Development Enthusiast
+- 📱 Aspiring Mobile App Developer
+- 🧠 Curious about Artificial Intelligence
+- 📫 How to reach me *vet.nat.c@gmail.com*
+<!-- - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! -->
 
-  <div style="flex: 1; text-align: right;">
-  <img src="./yo-ambar-dev.jpeg" alt="Imagen de About Me" width="150">
-  </div>
-</div>
+  <img src="./yo-ambar-dev.jpeg"  style="position: absolute; top: 50; right: 0;" width="150">
 
 ### Courses:
 - 🚀 Completed a Front-End Web Development Bootcamp at [Laboratoria](https://www.laboratoria.la)
