@@ -25,7 +25,7 @@
 <!--<li> - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! </li>-->
   <ul>
   </div>
-  <div style="flex: 1; text-align: right;">
+ <div style="flex: 1; text-align: right;">
     <img src="./yo-ambar-dev.jpeg" alt="yo-ambar" width="150">
   </div>
 </div>
