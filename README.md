@@ -15,13 +15,15 @@
 <div style="display: flex;">
   <div style="flex: 2;">
 ### About Me:
-- 🐾 Veterinarian who became a developer
-- 🎮 Fanatic of playing video games
-- 💻 Web Development Enthusiast
-- 📱 Aspiring Mobile App Developer
-- 🧠 Curious about Artificial Intelligence
-- 📫 How to reach me *vet.nat.c@gmail.com*
-<!-- - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! -->
+  <ul>
+    <li>🐾 Veterinarian who became a developer</li>
+    <li>🎮 Fanatic of playing video games</li>
+    <li>💻 Web Development Enthusiast</li>
+    <li>📱 Aspiring Mobile App Developer</li>
+    <li>🧠 Curious about Artificial Intelligence</li>
+    <li>📫 How to reach me **vet.nat.c@gmail.com**</li>
+<!--<li> - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! </li>-->
+  <ul>
   </div>
   <div style="flex: 1; text-align: right;">
     <img src="./yo-ambar-dev.jpeg" alt="yo-ambar" width="150">
