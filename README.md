@@ -22,7 +22,9 @@
     <li>📫 How to reach me *vet.nat.c@gmail.com*</li>
     <!-- <li>🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me!</li> -->
   </ul>
-<img src="./yo-ambar-dev.jpeg" alt="yo-ambar" width="150" style="float: right; margin-left: 20px;">
+<p style="float: right; margin-left: 20px;">
+  <img src="./yo-ambar-dev.jpeg" alt="yo-ambar" width="150">
+</p>
 
 ### Courses:
 - 🚀 Completed a Front-End Web Development Bootcamp at [Laboratoria](https://www.laboratoria.la)
