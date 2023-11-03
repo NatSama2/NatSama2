@@ -13,15 +13,20 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsama2&theme=monokai" alt="natsama2" /></a> </p>
 
 ### About Me:
-- 🐾 Veterinarian who became a developer
-- 🎮 Fanatic of playing video games
-- 💻 Web Development Enthusiast
-- 📱 Aspiring Mobile App Developer
-- 🧠 Curious about Artificial Intelligence
-- 📫 How to reach me *vet.nat.c@gmail.com*
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    - 🐾 Veterinarian who became a developer
+    - 🎮 Fanatic of playing video games
+    - 💻 Web Development Enthusiast
+    - 📱 Aspiring Mobile App Developer
+    - 🧠 Curious about Artificial Intelligence
+    - 📫 How to reach me *vet.nat.c@gmail.com*
 <!-- - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! -->
-
-  <img src="./yo-ambar-dev.jpeg"  style="position: absolute; top: 50; right: 0;" width="150">
+  </div>
+  <div style="flex: 1;">
+    <img src="./yo-ambar-dev.jpeg" alt="yo-ambar" width="150">
+  </div>
+</div>
 
 ### Courses:
 - 🚀 Completed a Front-End Web Development Bootcamp at [Laboratoria](https://www.laboratoria.la)
