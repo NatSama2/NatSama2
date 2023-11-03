@@ -12,9 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NatSama2&label=Profile%20views&color=blueviolet&style=flat" alt="NatSama2" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsama2&theme=monokai" alt="natsama2" /></a> </p>
 
-<table style="border-collapse: collapse;">
-  <tr>
-    <td>
+<p>
       <h3>About Me:</h3>
       <ul>
         <li>🐾 Veterinarian who became a developer</li>
@@ -25,12 +23,8 @@
         <li>📫 How to reach me *vet.nat.c@gmail.com*</li>
         <!-- <li>🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me!</li> -->
       </ul>
-    </td>
-    <td>
-      <img src="./yo-ambar-dev.jpeg" alt="yo-ambar" width="150">
-    </td>
-  </tr>
-</table>
+      <img src="./yo-ambar-dev.jpeg" alt="yo-ambar" width="150" align="right">
+</p>
 
 ### Courses:
 - 🚀 Completed a Front-End Web Development Bootcamp at [Laboratoria](https://www.laboratoria.la)
