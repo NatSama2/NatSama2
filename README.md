@@ -14,7 +14,7 @@
 
 <p>
   <h3>About Me:</h3>
-  <img src="./yo-ambar-dev.jpeg" alt="yo-ambar" width="150" align="right">
+  <img src="./yo-ambar-dev.jpeg" alt="yo-ambar" width="250" align="right">
     <ul>
       <li>🐾 Veterinarian who became a developer</li>
       <li>🎮 Fanatic of playing video games</li>
