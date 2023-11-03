@@ -21,6 +21,10 @@
 - 📫 How to reach me **vet.nat.c@gmail.com**
 <!-- - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! -->
 
+<div align="right">
+  <img src="./yo-ambar-dev.jpeg" alt="Imagen de About Me" width="150">
+</div>
+
 ### Courses:
 - 🚀 Completed a Front-End Web Development Bootcamp at [Laboratoria](https://www.laboratoria.la)
 - 🌱 I'm currently learning React and Bootstrap
