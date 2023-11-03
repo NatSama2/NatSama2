@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsama2&theme=monokai" alt="natsama2" /></a> </p>
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex: 2;">
+  <div style="flex: 1; text-align: left;">
 ### About Me:
   <ul>
     <li>🐾 Veterinarian who became a developer</li>
