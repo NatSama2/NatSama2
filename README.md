@@ -12,18 +12,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NatSama2&label=Profile%20views&color=blueviolet&style=flat" alt="NatSama2" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natsama2&theme=monokai" alt="natsama2" /></a> </p>
 
+<div style="display: flex;">
+  <div style="flex: 2;">
 ### About Me:
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    - 🐾 Veterinarian who became a developer
-    - 🎮 Fanatic of playing video games
-    - 💻 Web Development Enthusiast
-    - 📱 Aspiring Mobile App Developer
-    - 🧠 Curious about Artificial Intelligence
-    - 📫 How to reach me *vet.nat.c@gmail.com*
+- 🐾 Veterinarian who became a developer
+- 🎮 Fanatic of playing video games
+- 💻 Web Development Enthusiast
+- 📱 Aspiring Mobile App Developer
+- 🧠 Curious about Artificial Intelligence
+- 📫 How to reach me *vet.nat.c@gmail.com*
 <!-- - 🌐 Visit my portfolio [here](https://www.example.com) to see my projects and learn more about me! -->
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 1; text-align: right;">
     <img src="./yo-ambar-dev.jpeg" alt="yo-ambar" width="150">
   </div>
 </div>
