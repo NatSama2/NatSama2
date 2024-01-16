@@ -31,6 +31,7 @@
 - 🌱 I'm currently learning React and Bootstrap
 - 🌟 Finished the Tailwind course on [Platzi](https://platzi.com)
 - 🐍 Learning Python at [CodigoFacilito](https://codigofacilito.com/)
+- ☕ Taking Java classes at [Laboratoria](https://www.laboratoria.la)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
