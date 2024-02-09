@@ -37,6 +37,7 @@
 <p align="left">
 <a href="https://twitter.com/nat_sama2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nat_sama2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/giselle-cifuentes-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giselle-cifuentes-m" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/users/340250426123354113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/340250426123354113" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
