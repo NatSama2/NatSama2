@@ -50,6 +50,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natsama2&show_icons=true&locale=en&layout=compact&theme=neon" alt="natsama2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natsama2&show_icons=true&locale=en&theme=neon" alt="natsama2" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NatSama2&mode=weekly&theme=radical&background=000000" alt="NatSama2's GitHub Streak" /></p>
 <br>
 <br>
 
