@@ -18,6 +18,7 @@
     <ul>
       <li>🐾 Veterinarian who became a developer</li>
       <li>🎮 Fanatic of playing video games</li>
+      <li>🎾 Enjoys playing tennis in free time</li>
       <li>💻 Web Development Enthusiast</li>
       <li>📱 Aspiring Mobile App Developer</li>
       <li>🧠 Curious about Artificial Intelligence</li>
@@ -28,11 +29,11 @@
 
 ### Courses:
 - 🚀 Completed a Front-End Web Development Bootcamp at [Laboratoria](https://www.laboratoria.la)
-- 🌱 I'm currently learning React and Bootstrap
+- 📚 I'm currently learning React and Bootstrap
 - 🌟 Finished the Tailwind course on [Platzi](https://platzi.com)
 - 🐍 Learning Python at [CodigoFacilito](https://codigofacilito.com/)
 - ☕ Taking Java classes at [Laboratoria](https://www.laboratoria.la)
-- 🌐 Enrolled in the Back-End Development Seedling Program at [Incubadora de Desafío Latam](https://desafiolatam.com/incubadora/)
+- 🌱 Enrolled in the Back-End Development Seedling Program at [Incubadora de Desafío Latam](https://desafiolatam.com/incubadora/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
