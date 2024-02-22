@@ -2,11 +2,47 @@
   <img src="./GiselleCifuentes(2).png" alt="Blue Modern Jamboard Background">
 </p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=31&duration=1000&pause=2000&color=36BCF7FF&multiline=true&width=407&lines=Hi+%F0%9F%91%8B%2C+I'm+Giselle+Cifuentes" alt="Typing SVG">
-  </a>
-</h1>
+<div align="center">
+  <div id="typing-container">
+    <span id="typing-text"></span>
+  </div>
+</div>
+
+<script>
+  const phrases = [
+    "Hi 👋, I'm Giselle Cifuentes",
+    "Welcome to check out my projects"
+  ];
+
+  const typingContainer = document.getElementById('typing-container');
+  const typingText = document.getElementById('typing-text');
+
+  function typeText(index) {
+    const currentPhrase = phrases[index];
+
+    let charIndex = 0;
+    const typingInterval = setInterval(() => {
+      typingText.textContent = currentPhrase.slice(0, charIndex);
+      charIndex++;
+
+      if (charIndex > currentPhrase.length) {
+        clearInterval(typingInterval);
+
+        // Ocultar la frase actual después de un breve periodo
+        setTimeout(() => {
+          typingText.textContent = '';
+
+          // Llamada recursiva para pasar a la siguiente frase
+          const nextIndex = (index + 1) % phrases.length;
+          typeText(nextIndex);
+        }, 1000);
+      }
+    }, 100);
+  }
+
+  // Inicia la animación
+  typeText(0);
+</script>
 <h3 align="center">A passionate frontend developer from Chile <img src="./chile3.png" alt="cl"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NatSama2&label=Profile%20views&color=blueviolet&style=flat" alt="NatSama2" />
