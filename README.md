@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=31&duration=1000&pause=2000&color=36BCF7FF&multiline=true&width=407&lines=Hi+%F0%9F%91%8B%2C+I'm+Giselle+Cifuentes;Welcome+to+check+out+my+projects" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=31&duration=1000&pause=2000&color=36BCF7FF&multiline=true&width=407&lines[]=%20Hi+%F0%9F%91%8B%2C+I'm+Giselle+Cifuentes&lines[]=%20Welcome+to+check+out+my+projects" alt="Typing SVG">
   </a>
 </h1>
 <h3 align="center">A passionate frontend developer from Chile <img src="./chile3.png" alt="cl"> </h3>
