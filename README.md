@@ -7,6 +7,14 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&size=31&duration=1000&pause=2000&color=36BCF7FF&multiline=true&width=407&lines=Hi+%F0%9F%91%8B%2C+I'm+Giselle+Cifuentes" alt="Typing SVG">
   </a>
 </h1>
+
+<!--START_SECTION:intro-->
+Welcome to check out my projects
+<!--END_SECTION:intro-->
+
+<!--START_SECTION:outro-->
+Hi 👋, I'm Giselle Cifuentes
+<!--END_SECTION:outro-->
 <h3 align="center">A passionate frontend developer from Chile <img src="./chile3.png" alt="cl"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NatSama2&label=Profile%20views&color=blueviolet&style=flat" alt="NatSama2" />
