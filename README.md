@@ -23,7 +23,7 @@
       <li>📱 Aspiring Mobile App Developer</li>
       <li>🧠 Curious about Artificial Intelligence</li>
       <li>📫 How to reach me <a href="mailto:vet.nat.c@gmail.com">vet.nat.c@gmail.com</a> </li>
-      <<li>🌐 Visit my portfolio [here]([https://www.example.com](https://navy-bovid-409.notion.site/Nat-Home-2c02f940f7834dea9ad56cd6e1079b6f)) to see my projects and learn more about me!</li>
+      <<li>🌐 Visit my portfolio [here](https://navy-bovid-409.notion.site/Nat-Home-2c02f940f7834dea9ad56cd6e1079b6f) to see my projects and learn more about me!</li>
     </ul>
 </p>
 
