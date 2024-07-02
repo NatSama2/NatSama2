@@ -42,7 +42,6 @@
 <a href="https://linkedin.com/in/giselle-cifuentes-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giselle-cifuentes-m" height="30" width="40" /></a>
 <a href="https://discord.com/users/340250426123354113" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&theme=dark" alt="https://discord.com/users/340250426123354113" height="40" width="50" /></a>
 <a href="https://gitlab.com/gcifuentesm" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="https://discord.com/users/340250426123354113" height="40" width=50" /></a>
-  <a href="https://gitlab.com/gcifuentesm" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/23064371?s=280&v=4" alt="https://discord.com/users/340250426123354113" height="40" width=50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
