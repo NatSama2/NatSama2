@@ -35,6 +35,7 @@
 - ☕ Taking Java classes at [Laboratoria](https://www.laboratoria.la)
 - 🌱 Enrolled in the Back-End Development Seedling Program at [Incubadora de Desafío Latam](https://desafiolatam.com/incubadora/)
 - 🎓 Taking Vue.js Classes at [Udemy](https://www.udemy.com)
+- 📱 Participating in a Mobile Application Development Bootcamp for Android
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
