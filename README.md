@@ -60,7 +60,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NatSama2&mode=weekly&theme=radical&background=000000" alt="NatSama2's GitHub Streak" /></p>
 <br>
-[Let me bite you](https://int3.monstersgame.moonid.net/?ac=vid&vid=520005484)
+<a href="https://int3.monstersgame.moonid.net/?ac=vid&vid=520005484" target="_blank">Let me bite you</a>
 
 ### 🎮 My Pokémon Unite Main Team:
 <p align="center">
