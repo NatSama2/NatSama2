@@ -26,9 +26,8 @@
       <li>📫 How to reach me <a href="mailto:vet.nat.c@gmail.com">vet.nat.c@gmail.com</a> </li>
       <li>🌐 Visit my portfolio <a href="https://navy-bovid-409.notion.site/Nat-Home-2c02f940f7834dea9ad56cd6e1079b6f" target="_blank">here</a> to see my projects and learn more about me!</li>
     </ul>
-      <p align="right">A  </p>
 </p>
-
+  <p align="right">A  </p>
 ### Courses:
 - 🚀 Completed a Front-End Web Development Bootcamp at [Laboratoria](https://www.laboratoria.la)
 - 📚 I'm currently learning React and Bootstrap
