@@ -28,6 +28,7 @@
     </ul>
 </p>
   <p align="right">A  </p>
+  
 ### Courses:
 - 🚀 Completed a Front-End Web Development Bootcamp at [Laboratoria](https://www.laboratoria.la)
 - 📚 I'm currently learning React and Bootstrap
