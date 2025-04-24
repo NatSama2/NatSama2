@@ -15,7 +15,6 @@
 <p>
   <h3>About Me:</h3>
   <img src="./yo-ambar-dev4.jpg" alt="yo-ambar" width="300" align="right">
-  <p align="right">A  </p>
     <ul>
       <li>🐾 Veterinarian who became a developer</li>
       <li>🎮 Fanatic of playing video games</li>
@@ -27,6 +26,7 @@
       <li>📫 How to reach me <a href="mailto:vet.nat.c@gmail.com">vet.nat.c@gmail.com</a> </li>
       <li>🌐 Visit my portfolio <a href="https://navy-bovid-409.notion.site/Nat-Home-2c02f940f7834dea9ad56cd6e1079b6f" target="_blank">here</a> to see my projects and learn more about me!</li>
     </ul>
+      <p align="right">A  </p>
 </p>
 
 ### Courses:
