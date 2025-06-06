@@ -38,6 +38,7 @@
 - 🎓 Taking Vue.js Classes at [Udemy](https://www.udemy.com)
 - 📱 Participated in a Mobile Application Development Bootcamp for Android at [Talento Digital](https://www.talentodigitalparachile.cl/)
 - 📊 Currently taking a Data Science with Python course at [Alura Latam](https://www.aluracursos.com/)
+- 📈 Pursuing a Data Analysis course at [Talento Digital](https://www.talentodigitalparachile.cl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
