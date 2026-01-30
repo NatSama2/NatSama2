@@ -39,6 +39,7 @@
 - 📱 Participated in a Mobile Application Development Bootcamp for Android at [Talento Digital](https://www.talentodigitalparachile.cl/)
 - 📊 Currently taking a Data Science with Python course at [Alura Latam](https://www.aluracursos.com/)
 - 📈 Pursuing a Data Analysis course at [Talento Digital](https://www.talentodigitalparachile.cl/)
+- 🧩 Participated in the [Hackathon ONE](https://nocountry.tech/casos-de-exito/hackathon-one) – **Team 8 Latam** as part of the **Data Team**, organized by [No Country](https://nocountry.tech/) (simulation + talent platform), [Alura Latam](https://platzi.com) (education partner) and [Oracle Next Education (ONE)](https://www.oracle.com/lad/education/oracle-next-education/) (technology education initiative). 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
