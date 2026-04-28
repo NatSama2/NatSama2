@@ -42,20 +42,21 @@
 - 🧩 Participated in the [Hackathon ONE](https://nocountry.tech/casos-de-exito/hackathon-one) – **Team 8 Latam** as part of the **Data Team**, organized by [No Country](https://nocountry.tech/), [Alura Latam](https://www.aluracursos.com/formaciones) and [Oracle Next Education (ONE)](https://www.oracle.com/lad/education/oracle-next-education/) 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/nat_sama2" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://twitter.com/nat_sama2" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
   </a>
-  <a href="https://linkedin.com/in/giselle-cifuentes-m" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <a href="https://linkedin.com/in/giselle-cifuentes-m" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
-  <a href="https://discord.com/users/340250426123354113" target="blank">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40" width="50" />
+  <a href="https://discord.com/users/340250426123354113" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40" />
   </a>
-  <a href="https://gitlab.com/gcifuentesm" target="blank">
-    <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="40" width="50" />
+  <a href="https://gitlab.com/gcifuentesm" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="40" />
   </a>
-</p>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
