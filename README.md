@@ -43,20 +43,20 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://twitter.com/nat_sama2" target="_blank">
+<p align="left">
+  <a href="https://twitter.com/nat_sama2" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
   </a>
-  <a href="https://linkedin.com/in/giselle-cifuentes-m" target="_blank">
+  <a href="https://linkedin.com/in/giselle-cifuentes-m" target="_blank" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
   </a>
-  <a href="https://discord.com/users/340250426123354113" target="_blank">
+  <a href="https://discord.com/users/340250426123354113" target="_blank" style="display:inline-block;">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40" />
   </a>
-  <a href="https://gitlab.com/gcifuentesm" target="_blank">
+  <a href="https://gitlab.com/gcifuentesm" target="_blank" style="display:inline-block;">
     <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="40" />
   </a>
-</div>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
