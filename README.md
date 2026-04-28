@@ -63,10 +63,8 @@
 <p align="center">
   <img src="./Main-Pokemon3.png" alt="My Pokémon Unite Main Team" width="600px">
 </p>
-<a href="https://int3.monstersgame.moonid.net/?ac=vid&vid=520005484" target="_blank">
-  <span>Let me bite you</span><br>
-  <img src="https://media.tenor.com/8s4qwDmZu0AAAAAj/vampire-fangs.gif" width="40" />
-</a>
+<a href="https://int3.monstersgame.moonid.net/?ac=vid&vid=520005484" target="_blank">Let me bite you</a>
+<img src="https://media.tenor.com/8s4qwDmZu0AAAAAj/vampire-fangs.gif" width="40" />
 
 ---
 
