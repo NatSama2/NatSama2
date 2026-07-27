@@ -39,7 +39,8 @@
 - 📱 Participated in a Mobile Application Development Bootcamp for Android at [Talento Digital](https://www.talentodigitalparachile.cl/)
 - 📊 Currently taking a Data Science with Python course at [Alura Latam](https://www.aluracursos.com/)
 - 📈 Pursuing a Data Analysis course at [Talento Digital](https://www.talentodigitalparachile.cl/)
-- 🧩 Participated in the [Hackathon ONE](https://nocountry.tech/casos-de-exito/hackathon-one) – **Team 8 Latam** as part of the **Data Team**, organized by [No Country](https://nocountry.tech/), [Alura Latam](https://www.aluracursos.com/formaciones) and [Oracle Next Education (ONE)](https://www.oracle.com/lad/education/oracle-next-education/) 
+- 🧩 Participated in the [Hackathon ONE](https://nocountry.tech/casos-de-exito/hackathon-one) – **Team 8 Latam** as part of the **Data Team**, organized by [No Country](https://nocountry.tech/), [Alura Latam](https://www.aluracursos.com/formaciones) and [Oracle Next Education (ONE)](https://www.oracle.com/lad/education/oracle-next-education/)
+- 🤖 Studying Fundamentals of Data Science through a Bootcamp at [Talento Digital](https://www.talentodigitalparachile.cl/)
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left"><a href="https://twitter.com/nat_sama2"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40"></a> <a href="https://linkedin.com/in/giselle-cifuentes-m"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"></a> <a href="https://discord.com/users/340250426123354113"><img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40"></a> <a href="https://gitlab.com/gcifuentesm"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="40"></a></p>
